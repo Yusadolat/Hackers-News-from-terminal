@@ -5,5 +5,8 @@ Clone this or download as zip
 
 Extract Hackernews.py from the zip file
 
-The run with 
+Then run with 
+
+
+
  # python Hackernews.py
